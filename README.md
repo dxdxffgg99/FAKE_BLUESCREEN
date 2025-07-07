@@ -3,7 +3,7 @@
 Simulate a terrifying Windows crash — without actually breaking anything.  
 This harmless `.bat` file mimics the classic Blue Screen of Death in fullscreen, complete with a fake loading bar and sad face.
 
-![bsod-fake](https://user-images.githubusercontent.com/your/image/here.png) <!-- 썸네일 있으면 넣어줘 -->
+![bsod-fake](./bluescreen.png)
 
 ---
 
